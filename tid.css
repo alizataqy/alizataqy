@@ -184,7 +184,7 @@
    transform-origin: 0% 0%;
    animation-timing-function: linear;
  }
- 
+    /* 2nd */
  @keyframes wave {
    10% {
      transform: rotate(110deg);
