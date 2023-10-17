@@ -2,20 +2,9 @@
 <head>
     <title>UCUPPPP</title>
     <link rel="stylesheet" href="tid.css">
-    <title>Current Time</title>
-    <script>
-        function updateTime() {
-            var now = new Date();
-            var hours = now.getHours();
-            var minutes = now.getMinutes();
-            var seconds = now.getSeconds();
-            var timeString = hours + ":" + (minutes < 10 ? "0" : "") + minutes + ":" + (seconds < 10 ? "0" : "") + seconds;
-            document.getElementById("current-time").innerHTML = timeString;
-        }
-        setInterval(updateTime, 1000);
-      
-    </script>
-    <body>
+    <script src="java.js"></script>
+    
+
     <div class="penguin">
       <div class="penguin-bottom">
         <div class="right-hand"></div>
