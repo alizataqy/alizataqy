@@ -3,28 +3,37 @@
     <head>
         <title>FORMS</title>
         <link rel="stylesheet" href="ucup.css">
+        <link rel="stylesheet" href="kiw.js">
     </head>
     <body>
-        <div class="semua"></div>
+        <div class="semua">
         <main class="box">
             <h2>Daftar</h2>
-        <form>
-            <div class="inputBox">
-                     <label for="fname">Nama</label>
-                     <input type="text" name="userName" id="userName" placeholder="Nama" required/>
-            <div class="inputBox">
-                        <label for="fname">Email</label>
-                        <input type="text" name="userEmail" id="userEmail" placeholder="Email" required/>
-            <div class="inputBox">
-                     <label for="userPassword">Password</label>
-                     <input type="password" name="userPassword" id="userPassword" placeholder="Password"
-                           required/>
-             </div>
-            <div class="inputBox">
-                     <label for="userConfirmPassword">Confirm Password</label>
-                    <input type="password" name="userPassword" id="userConfirmPassword" placeholder="Confirm"
-                           required/>
-                            </div>
+            <form class="mt-5" id="registrationForm">
+                <div class="form-group">
+                 <input id="name" required="" type="text"/>
+                 <label for="name">
+                  Name
+                 </label>
+                </div>
+                <div class="form-group">
+                 <input id="email" required="" type="email"/>
+                 <label for="email">
+                  Email
+                 </label>
+                </div>
+                <div class="form-group">
+                 <input id="password" required="" type="password"/>
+                 <label for="password">
+                  Password
+                 </label>
+                </div>
+                <div class="form-group">
+                 <input id="confirmPassword" required="" type="password"/>
+                 <label for="confirmPassword">
+                  Confirm Password
+                 </label>
+                </div>
 
                             <h4>Jenis Kelamin</h4>          
             <div class="jenis">
@@ -36,6 +45,7 @@
 
                         <button type="submit" name="" style="float: left;">Submit</button>
          </form>
+        </div>
         </main>
 
     </body>
