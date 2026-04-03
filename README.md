@@ -1,5 +1,15 @@
 <h1 align="center">Hey 👋What's Up? Taqy's here</h1>
 
+Fullstack Developer | PHP, Golang, Javascript, Typescript
+Building scalable systems & modern web applications
+
+🚀 About Me
+
+I'm a fullstack developer but focused on backend developer who enjoys building reliable and scalable web applications.
+I mainly work with PHP and Golang, and I also build modern frontend apps using Next.js.
+
+Currently, I'm improving my skills in system design, API security, and performance optimization.
+
 ###
 Languages:
 <div align="center">
@@ -27,10 +37,5 @@ Languages:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
-
-###
-
-
-<img src="https://raw.githubusercontent.com/alizataqy/alizataqy/output/snake.svg" alt="Snake animation" />
 
 ###
