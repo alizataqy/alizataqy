@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋What's Up? Taqy's here</h1>
 
-Fullstack Developer | PHP, Golang, Javascript, Typescript
+Software Engineer | PHP, Golang, Javascript, Typescript
 Building scalable systems & modern web applications
 
 🚀 About Me
 
-I'm a fullstack developer but focused on backend developer who enjoys building reliable and scalable web applications.
+I'm a software engineer but focused on backend developer who enjoys building reliable and scalable web applications.
 I mainly work with PHP and Golang, and I also build modern frontend apps using Next.js.
 
 Currently, I'm improving my skills in system design, API security, and performance optimization.
